@@ -26,7 +26,6 @@ function Projects() {
               title="Envoy"
               description="Envoy ceating a world where work places work better.From people to packages, Envoy helps you handle everything that comes through your company’s front door.By building smart tools envoy making to reduce workload on you."
               link="https://github.com/Afzal95/envoy.git"
-              techs = {'HTML','CSS','JavaScript'}
 
             />
           </Col>
@@ -38,7 +37,6 @@ function Projects() {
               title="Revv"
               description="Revv is a online car rental platform where user can rental a car for hours or days or he can subscribe to months and year also. He can choose the selective car which he want. "
               link="https://github.com/avinashkumarsinha007/revv_clone.git"
-              techs={'HTML5','CSS3','Javascript', 'React','MaterialUI'}
             />
           </Col>
 
@@ -49,7 +47,6 @@ function Projects() {
               title="TripAdvisor"
               description="Tripadvisor, Inc. is an American online travel company that operates a website and mobile app with user-generated content and a comparison shopping website. It also offers online hotel reservations and bookings for transportation, lodging, travel experiences, and restaurants."
               link="https://github.com/Sathyaprakashsp666/team-helium--trip_advicer_Clone.git"
-              techs= {'HTML','CSS','JavaScript', 'React'}
             />
           </Col>
 

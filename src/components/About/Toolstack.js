@@ -4,7 +4,6 @@ import {
   
   SiVisualstudiocode,
   SiPostman,
-  SiPytorch
 } from "react-icons/si";
 
 function Toolstack() {
