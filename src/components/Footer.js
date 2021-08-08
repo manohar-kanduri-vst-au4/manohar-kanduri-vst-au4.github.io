@@ -16,7 +16,6 @@ function Footer() {
           <h3>Designed and Developed by Kanduri Manohar</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-//           <h3>copyright © {year} </h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
@@ -51,16 +50,7 @@ function Footer() {
                 <FaLinkedinIn />
               </a>
             </li>
-            {/* <li className="social-icons">
-              <a
-                href="https://www.instagram.com/s.o.u.m.y.a_j.i.t/"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
-                <AiFillInstagram />
-              </a>
-            </li> */}
+            
           </ul>
         </Col>
       </Row>
